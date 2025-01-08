@@ -1,0 +1,13 @@
+python-dotenv
+firecrawl-py
+Markdown
+BeautifulSoup4
+requests
+llama-index-core
+llama-parse
+llama-index-readers-file
+openai
+nest_asyncio
+openpyxl
+pandas
+tqdm

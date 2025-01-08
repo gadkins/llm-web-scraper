@@ -1,6 +1,6 @@
 # Web Scraper
 
-This tool can be used to scrape HVAC catalog components from a website and save the data to a spreadsheet. This tool is experimental and has only been partially tested on [bakerdist.com](https://www.bakerdist.com/). It currently takes about 30 seconds to scrape and process a single component.
+This tool can be used to scrape specific content from a website and save the data to a spreadsheet. This tool is experimental and has only been partially tested on [bakerdist.com](https://www.bakerdist.com/). It currently takes about 30 seconds to scrape and process a single component.
 
 ## Status
 
